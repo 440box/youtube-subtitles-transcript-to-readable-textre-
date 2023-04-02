@@ -232,5 +232,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-!wget https://gist.githubusercontent.com/glasslion/b2fcad16bc8a9630dbd7a945ab5ebf5e/raw/931862d2909ac13c0067319923df054dc06be196/vtt2text.py
 
